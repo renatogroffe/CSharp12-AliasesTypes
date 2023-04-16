@@ -1,9 +1,9 @@
-using ConversoesFahrenheit = double[];
+﻿using ConversoesFahrenheit = double[];
 using CalculoIMC = (double Peso, double Altura);
 
 namespace ConsoleAppAliasesTypes;
 
-public class Testes
+public static class Testes
 {
     public static void ConverterTemperaturas(
         ConversoesFahrenheit temperaturasFahrenheit)

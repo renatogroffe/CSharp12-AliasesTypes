@@ -1,4 +1,3 @@
-﻿
 using ConversoesFahrenheit = double[];
 using CalculoIMC = (double Peso, double Altura);
 
